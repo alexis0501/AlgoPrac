@@ -3,7 +3,7 @@
  * @return {string[]}
  */
 
-for (let i = 0; i < 55; i++) {
+for (let i = 0; i < 101; i++) {
     if(i % 15 == 0)
         console.log("fizzbuzz");
     else if (i % 5 == 0)
